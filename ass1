@@ -1,0 +1,9 @@
+#/bin/bash
+x=$(ls -1 */)
+
+for i in $x
+do	
+	
+	echo $i
+
+done 
